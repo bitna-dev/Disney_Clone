@@ -1,5 +1,10 @@
-![image](https://github.com/blingbn/Disney_Clone/assets/64954355/850a5b8c-2d80-462e-852d-7ff07a549ec6)#Disney Clone Coding
+
 #Connect Firebase / Google Login
+
+
+
+![image](https://github.com/blingbn/Disney_Clone/assets/64954355/850a5b8c-2d80-462e-852d-7ff07a549ec6)#Disney Clone Coding
+
 
 ![image](https://github.com/blingbn/Disney_Clone/assets/64954355/e84c1e2d-015c-4f92-880f-b9ebba9f5258)
 ![image](https://github.com/blingbn/Disney_Clone/assets/64954355/5cb39dcc-591e-4520-886f-1df4ad87277b)
